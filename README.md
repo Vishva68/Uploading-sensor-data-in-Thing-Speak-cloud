@@ -1,4 +1,8 @@
-# Uploading temperature sensor data in Thing Speak cloud
+Name : ROSHINI A
+
+Reg No : 24002364
+
+### EXP-3 : UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -189,8 +193,6 @@ void loop()
 
 
 # RESULT:
-
-Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
 
