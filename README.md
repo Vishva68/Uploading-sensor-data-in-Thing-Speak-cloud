@@ -2,7 +2,7 @@ Name : ROSHINI A
 
 Reg No : 24002364
 
-### EXP-3 : UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
+# EXP-3 : UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
