@@ -1,6 +1,6 @@
-Name : ROSHINI A
+Name : Vishvanandh N
 
-Reg No : 24002364
+Reg No : 24005857
 
 # EXP-3 : UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
 
@@ -84,9 +84,9 @@ Automatically act on your data and communicate using third-party services like T
 
 
 
-char ssid[] = "ROSHINI A";
+char ssid[] = "Vichu";
 
-char pass[] = "Rosh@2007";
+char pass[] = "vichu06.";
 
 const int out = 23;
 
