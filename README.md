@@ -1,6 +1,6 @@
-Name : Vishvanandh N
+##Name : Vishvanandh N
 
-Reg No : 24005857
+##Register Number : 24005857
 
 # EXP-3 : UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
 
